@@ -52,6 +52,9 @@
      <None Include="Assets\Water\Shaders\FXWaterPro.shader" />
      <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
      <None Include="Assets\Campfire\License.txt" />
+ <Reference Include="Assembly-UnityScript">
+ <HintPath>D:/Documents/unity projects/COMP-305-Assignment3/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll</HintPath>
  </Reference>
